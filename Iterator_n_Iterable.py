@@ -1,3 +1,4 @@
+#My attempt to the problem of creating iterator - https://www.youtube.com/watch?v=C3Z9lJXI6Qw
 #Iteratable and Iterator
 #create a class that can be used as a generator
 class Sentence():
